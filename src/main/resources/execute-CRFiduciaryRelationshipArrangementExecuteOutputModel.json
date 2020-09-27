@@ -1,0 +1,10 @@
+{
+  "fiduciaryRelationshipArrangementExecuteActionTaskRecord" : {},
+  "executeRecordReference" : "ERR706246",
+  "executeResponseRecord" : {},
+  "fiduciaryRelationshipArrangementSelectedOption" : "fiduciaryRelationshipArrangementSelectedOption",
+  "fiduciaryRelationshipArrangementSchedule" : "fiduciaryRelationshipArrangementSchedule",
+  "fiduciaryRelationshipArrangementStatus" : "fiduciaryRelationshipArrangementStatus",
+  "fiduciaryRelationshipArrangementExecuteActionTaskReference" : "FRAEATR713914",
+  "fiduciaryRelationshipArrangementParameterType" : "fiduciaryRelationshipArrangementParameterType"
+}

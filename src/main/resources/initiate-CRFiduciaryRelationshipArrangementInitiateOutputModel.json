@@ -1,0 +1,10 @@
+{
+  "fiduciaryRelationshipArrangementInitiateActionReference" : "FRAIAR702019",
+  "fiduciaryRelationshipArrangementInstanceStatus" : "fiduciaryRelationshipArrangementInstanceStatus",
+  "fiduciaryRelationshipArrangementInitiateActionRecord" : {},
+  "fiduciaryRelationshipArrangementSelectedOption" : "fiduciaryRelationshipArrangementSelectedOption",
+  "fiduciaryRelationshipArrangementSchedule" : "fiduciaryRelationshipArrangementSchedule",
+  "fiduciaryRelationshipArrangementStatus" : "fiduciaryRelationshipArrangementStatus",
+  "fiduciaryRelationshipArrangementInstanceReference" : "FRAIR756480",
+  "fiduciaryRelationshipArrangementParameterType" : "fiduciaryRelationshipArrangementParameterType"
+}

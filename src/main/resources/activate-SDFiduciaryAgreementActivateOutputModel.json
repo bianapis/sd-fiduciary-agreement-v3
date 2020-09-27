@@ -1,0 +1,24 @@
+{
+  "fiduciaryAgreementServicingSessionReference" : "SSSR783215",
+  "fiduciaryAgreementServicingSessionStatus" : "fiduciaryAgreementServicingSessionStatus",
+  "fiduciaryAgreementActivationActionTaskReference" : "SAATR758836",
+  "fiduciaryAgreementActivationActionTaskRecord" : {},
+  "fiduciaryAgreementServiceConfigurationRecord" : {
+    "fiduciaryAgreementServiceConfigurationSettingReference" : "700761",
+    "fiduciaryAgreementServiceConfigurationSetup" : {
+      "fiduciaryAgreementServiceConfigurationParameter" : "fiduciaryAgreementServiceConfigurationParameter"
+    },
+    "fiduciaryAgreementServiceSubscription" : {
+      "fiduciaryAgreementServiceSubscriberAccessProfile" : "fiduciaryAgreementServiceSubscriberAccessProfile",
+      "fiduciaryAgreementServiceSubscriberReference" : "769192"
+    },
+    "fiduciaryAgreementServiceAgreement" : {
+      "fiduciaryAgreementServiceAgreementReference" : "791202",
+      "fiduciaryAgreementServiceUserReference" : "767210",
+      "fiduciaryAgreementServiceAgreementTermsandConditions" : "fiduciaryAgreementServiceAgreementTermsandConditions"
+    },
+    "fiduciaryAgreementServiceStatus" : "fiduciaryAgreementServiceStatus",
+    "fiduciaryAgreementServiceConfigurationSettingDescription" : "fiduciaryAgreementServiceConfigurationSettingDescription"
+  },
+  "fiduciaryAgreementServicingSessionRecord" : {}
+}

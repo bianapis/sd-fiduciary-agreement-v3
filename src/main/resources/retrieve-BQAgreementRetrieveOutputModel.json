@@ -1,0 +1,26 @@
+{
+  "businessService" : "businessService",
+  "agreementServiceWorkProduct" : "agreementServiceWorkProduct",
+  "agreementServiceName" : "agreementServiceName",
+  "agreementRetrieveActionTaskReference" : "FRARATR719417",
+  "agreementInstanceReport" : {
+    "agreementInstanceReportType" : "agreementInstanceReportType",
+    "agreementInstanceReportParameters" : "agreementInstanceReportParameters",
+    "agreementInstanceReport" : {},
+    "agreementInstanceReportRecord" : {}
+  },
+  "agreementRetrieveActionTaskRecord" : {},
+  "agreementServiceInputsandOuputs" : "agreementServiceInputsandOuputs",
+  "agreementRetrieveActionResponse" : "agreementRetrieveActionResponse",
+  "agreementServiceDescription" : "agreementServiceDescription",
+  "agreementPreconditions" : "agreementPreconditions",
+  "agreementInstanceAnalysis" : {
+    "agreementInstanceAnalysisParameters" : "agreementInstanceAnalysisParameters",
+    "agreementInstanceAnalysisReport" : {},
+    "agreementInstanceAnalysisReportType" : "agreementInstanceAnalysisReportType",
+    "agreementInstanceAnalysisRecord" : {}
+  },
+  "agreementPostconditions" : "agreementPostconditions",
+  "agreementFeatureSchedule" : "agreementFeatureSchedule",
+  "agreementServiceType" : "agreementServiceType"
+}

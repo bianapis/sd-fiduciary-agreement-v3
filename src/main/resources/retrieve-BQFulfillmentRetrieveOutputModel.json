@@ -1,0 +1,25 @@
+{
+  "fulfillmentFeatureSchedule" : "fulfillmentFeatureSchedule",
+  "fiduciaryArrangementFulfillment" : "fiduciaryArrangementFulfillment",
+  "fulfillmentPostconditions" : "fulfillmentPostconditions",
+  "fulfillmentRetrieveActionTaskRecord" : {},
+  "fulfillmentFiduciaryArrangementFulfillmentServiceDescription" : "fulfillmentFiduciaryArrangementFulfillmentServiceDescription",
+  "fulfillmentRetrieveActionTaskReference" : "FRATR772279",
+  "fulfillmentFiduciaryArrangementFulfillmentServiceInputsandOuputs" : "fulfillmentFiduciaryArrangementFulfillmentServiceInputsandOuputs",
+  "fulfillmentRetrieveActionResponse" : "fulfillmentRetrieveActionResponse",
+  "fulfillmentInstanceAnalysis" : {
+    "fulfillmentInstanceAnalysisParameters" : "fulfillmentInstanceAnalysisParameters",
+    "fulfillmentInstanceAnalysisRecord" : {},
+    "fulfillmentInstanceAnalysisReportType" : "fulfillmentInstanceAnalysisReportType",
+    "fulfillmentInstanceAnalysisReport" : {}
+  },
+  "fulfillmentFiduciaryArrangementFulfillmentServiceWorkProduct" : "fulfillmentFiduciaryArrangementFulfillmentServiceWorkProduct",
+  "fulfillmentPreconditions" : "fulfillmentPreconditions",
+  "fulfillmentFiduciaryArrangementFulfillmentServiceType" : "fulfillmentFiduciaryArrangementFulfillmentServiceType",
+  "fulfillmentInstanceReport" : {
+    "fulfillmentInstanceReportType" : "fulfillmentInstanceReportType",
+    "fulfillmentInstanceReportRecord" : {},
+    "fulfillmentInstanceReportParameters" : "fulfillmentInstanceReportParameters",
+    "fulfillmentInstanceReport" : {}
+  }
+}

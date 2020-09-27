@@ -1,0 +1,28 @@
+{
+  "fiduciaryRelationshipArrangementRetrieveActionTaskRecord" : {},
+  "fiduciaryRelationshipArrangementCurrency" : "USD",
+  "fiduciaryRelationshipArrangementBookingLocation" : "fiduciaryRelationshipArrangementBookingLocation",
+  "fiduciaryRelationshipArrangementReference" : "FRAR723959",
+  "fiduciaryRelationshipArrangementInstanceAnalysis" : {
+    "fiduciaryRelationshipArrangementInstanceAnalysisReportType" : "fiduciaryRelationshipArrangementInstanceAnalysisReportType",
+    "fiduciaryRelationshipArrangementInstanceAnalysisData" : "fiduciaryRelationshipArrangementInstanceAnalysisData",
+    "fiduciaryRelationshipArrangementInstanceAnalysisReport" : {}
+  },
+  "fiduciaryRelationshipArrangementType" : "fiduciaryRelationshipArrangementType",
+  "fiduciaryRelationshipArrangementRetrieveActionResponse" : "fiduciaryRelationshipArrangementRetrieveActionResponse",
+  "fiduciaryRelationshipArrangementInstanceReportRecord" : {
+    "fiduciaryRelationshipArrangementInstanceReportData" : "fiduciaryRelationshipArrangementInstanceReportData",
+    "fiduciaryRelationshipArrangementInstanceReport" : {},
+    "fiduciaryRelationshipArrangementInstanceReportType" : "fiduciaryRelationshipArrangementInstanceReportType"
+  },
+  "fiduciaryRelationshipArrangementSelectedOption" : "fiduciaryRelationshipArrangementSelectedOption",
+  "fiduciaryRelationshipArrangementSchedule" : "fiduciaryRelationshipArrangementSchedule",
+  "fiduciaryRelationshipArrangementStatus" : "fiduciaryRelationshipArrangementStatus",
+  "fiduciaryRelationshipArrangementAccountReference" : "FRAAR714166",
+  "fiduciaryRelationshipArrangementRetrieveActionTaskReference" : "FRARATR738124",
+  "fiduciaryRelationshipArrangementJurisdiction" : "fiduciaryRelationshipArrangementJurisdiction",
+  "fiduciaryRelationshipArrangementRegulationReference" : "FRARR745536",
+  "fiduciaryRelationshipArrangementAccountType" : "fiduciaryRelationshipArrangementAccountType",
+  "fiduciaryRelationshipArrangementRegulationType" : "fiduciaryRelationshipArrangementRegulationType",
+  "fiduciaryRelationshipArrangementParameterType" : "fiduciaryRelationshipArrangementParameterType"
+}

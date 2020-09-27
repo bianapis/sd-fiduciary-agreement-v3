@@ -1,0 +1,14 @@
+{
+  "agreementServiceDescription" : "agreementServiceDescription",
+  "businessService" : "businessService",
+  "agreementServiceWorkProduct" : "agreementServiceWorkProduct",
+  "agreementPreconditions" : "agreementPreconditions",
+  "agreementServiceName" : "agreementServiceName",
+  "agreementPostconditions" : "agreementPostconditions",
+  "agreementUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "agreementServiceInputsandOuputs" : "agreementServiceInputsandOuputs",
+  "agreementFeatureSchedule" : "agreementFeatureSchedule",
+  "agreementServiceType" : "agreementServiceType",
+  "agreementUpdateActionTaskReference" : "FRAUATR726939"
+}

@@ -1,0 +1,26 @@
+{
+  "assessmentandReportingAnalysisandReportingServiceType" : "assessmentandReportingAnalysisandReportingServiceType",
+  "assessmentandReportingRetrieveActionResponse" : "assessmentandReportingRetrieveActionResponse",
+  "analysisandReporting" : "analysisandReporting",
+  "assessmentandReportingInstanceReport" : {
+    "assessmentandReportingInstanceReportType" : "assessmentandReportingInstanceReportType",
+    "assessmentandReportingInstanceReportParameters" : "assessmentandReportingInstanceReportParameters",
+    "assessmentandReportingInstanceReport" : {},
+    "assessmentandReportingInstanceReportRecord" : {}
+  },
+  "assessmentandReportingPreconditions" : "assessmentandReportingPreconditions",
+  "assessmentandReportingAnalysisandReportingServiceDescription" : "assessmentandReportingAnalysisandReportingServiceDescription",
+  "assessmentandReportingAnalysisandReportingServiceInputsandOuputs" : "assessmentandReportingAnalysisandReportingServiceInputsandOuputs",
+  "assessmentandReportingRetrieveActionTaskReference" : "AARRATR724950",
+  "assessmentandReportingInstanceAnalysis" : {
+    "assessmentandReportingInstanceAnalysisReport" : {},
+    "assessmentandReportingInstanceAnalysisReportType" : "assessmentandReportingInstanceAnalysisReportType",
+    "assessmentandReportingInstanceAnalysisRecord" : {},
+    "assessmentandReportingInstanceAnalysisParameters" : "assessmentandReportingInstanceAnalysisParameters"
+  },
+  "assessmentandReportingFeatureSchedule" : "assessmentandReportingFeatureSchedule",
+  "assessmentandReportingAnalysisandReportingServiceName" : "assessmentandReportingAnalysisandReportingServiceName",
+  "assessmentandReportingRetrieveActionTaskRecord" : {},
+  "assessmentandReportingPostconditions" : "assessmentandReportingPostconditions",
+  "assessmentandReportingAnalysisandReportingServiceWorkProduct" : "assessmentandReportingAnalysisandReportingServiceWorkProduct"
+}

@@ -1,0 +1,15 @@
+{
+  "assessmentandReportingAnalysisandReportingServiceType" : "assessmentandReportingAnalysisandReportingServiceType",
+  "assessmentandReportingInstanceReference" : "AARIR791164",
+  "assessmentandReportingInitiateActionRecord" : {},
+  "analysisandReporting" : "analysisandReporting",
+  "assessmentandReportingInstanceStatus" : "assessmentandReportingInstanceStatus",
+  "assessmentandReportingPreconditions" : "assessmentandReportingPreconditions",
+  "assessmentandReportingAnalysisandReportingServiceDescription" : "assessmentandReportingAnalysisandReportingServiceDescription",
+  "assessmentandReportingAnalysisandReportingServiceInputsandOuputs" : "assessmentandReportingAnalysisandReportingServiceInputsandOuputs",
+  "assessmentandReportingInitiateActionReference" : "AARIAR713981",
+  "assessmentandReportingFeatureSchedule" : "assessmentandReportingFeatureSchedule",
+  "assessmentandReportingAnalysisandReportingServiceName" : "assessmentandReportingAnalysisandReportingServiceName",
+  "assessmentandReportingPostconditions" : "assessmentandReportingPostconditions",
+  "assessmentandReportingAnalysisandReportingServiceWorkProduct" : "assessmentandReportingAnalysisandReportingServiceWorkProduct"
+}

@@ -1,0 +1,39 @@
+{
+  "fiduciaryAgreementOfferedService" : {
+    "fiduciaryAgreementServiceReference" : "776158",
+    "fiduciaryAgreementServiceRecord" : {
+      "fiduciaryAgreementServiceType" : "fiduciaryAgreementServiceType",
+      "fiduciaryAgreementServiceSchedule" : "fiduciaryAgreementServiceSchedule",
+      "fiduciaryAgreementServiceDescription" : "fiduciaryAgreementServiceDescription",
+      "fiduciaryAgreementServicePoliciesandGuidelines" : {
+        "fiduciaryAgreementServiceEligibility" : "fiduciaryAgreementServiceEligibility",
+        "fiduciaryAgreementServicePricingandTerms" : "fiduciaryAgreementServicePricingandTerms",
+        "fiduciaryAgreementServiceIntendedUses" : "fiduciaryAgreementServiceIntendedUses"
+      },
+      "fiduciaryAgreementServiceVersion" : "fiduciaryAgreementServiceVersion"
+    }
+  },
+  "fiduciaryAgreementRetrieveActionRecord" : {
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "fiduciaryAgreementPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "fiduciaryAgreementActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "fiduciaryAgreementRetrieveActionTaskRecord" : {},
+  "fiduciaryAgreementRetrieveActionResponse" : "fiduciaryAgreementRetrieveActionResponse",
+  "fiduciaryAgreementRetrieveActionTaskReference" : "SRATR795161"
+}
